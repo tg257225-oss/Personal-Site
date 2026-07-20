@@ -64,3 +64,21 @@ h1 {
     left: -10%;
     animation: float-1 15s ease-in-out infinite alternate;
 }
+
+.sphere-2 {
+    width: 40vw;
+    height: 40vw;
+    background: linear-gradient(240deg, rgba(124, 140, 231, 0.5));
+    bottom: -20%;
+    right: -10%;
+    animation: float-1 18s ease-in-out infinite alternate;
+}
+
+.sphere-3 {
+    width: 40vw;
+    height: 40vw;
+    background: linear-gradient(120deg, rgba(131, 73, 240, 0.5), rgba(105, 18, 245, 0.3));
+    bottom: -100%;
+    left: -5%;
+    animation: float-1 18s ease-in-out infinite alternate;
+}
